@@ -1,0 +1,48 @@
+.tableheaders {
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+#TrackListing {
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid #fff;
+}
+
+#TrackListing td {
+	padding: 8px 0px;
+	text-align: center;
+}
+
+#Listen {
+	text-align:center;
+	font-size: 22px;
+}
+
+#Listen a {
+	color: #78c0ff;
+	cursor: pointer;
+}
+
+#Listen a:hover {
+	color: #fff;
+	cursor: pointer;
+}
+
+#TrackName {
+    width: 250px;
+}
+
+
+#TrackName a {
+    color: #78c0ff;
+	cursor: pointer;
+}
+
+#TrackName a:hover {
+    color: #fff;
+	cursor: pointer;
+}
+
+#AddToCart{
+	text-align:center;
+}
